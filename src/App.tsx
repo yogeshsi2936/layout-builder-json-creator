@@ -4,9 +4,11 @@ import SideBar from './components/shared/SideBar';
 import Organisms from './components/Organisms';
 import Template from './components/Template';
 import Tokens from './components/Tokens';
-function App() {
+import { LayoutBuilderProvider } from './context/LayoutContext';
+ function App() {
   return (
     <>
+    <LayoutBuilderProvider>
       <BrowserRouter>
         <div className='flex'>
           <div className="basis-2/10 flex-1" >
@@ -22,6 +24,7 @@ function App() {
           </div>
         </div>
       </BrowserRouter>
+      </LayoutBuilderProvider>
 
     </>
   )

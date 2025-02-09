@@ -1,0 +1,27 @@
+{
+    "layout_type":[
+        "vertical_listing",
+        "horizontal_listing",
+        "carousel_listing",
+        "grid",
+        "tab_layout",
+        "table",
+        "embed"
+    ],
+    "template_type":[
+        "news",
+        "photos",
+        "videos",
+        "showcase",
+        "webview",
+        "fixtures",
+        "standings",
+        "matchcenter",
+        "squad",
+        "statistics"
+    ],
+    "stack_type":[
+        "v",
+        "h"
+    ]
+}
