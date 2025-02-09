@@ -1,0 +1,42 @@
+{
+  "TemplateName": "",
+  "TemplateType": "",
+  "properties": {
+    "is_full_width": false,
+    "section_gap": false,
+    "stack": "v",
+    "column_span": 1,
+    "layout_type": ""
+  },
+  "styles": {
+    "background_color": " ",
+    "background_image": "",
+    "gap": "",
+    "padding": {
+      "top": "",
+      "right": "",
+      "bottom": "",
+      "left": ""
+    }
+  },
+  "data": {
+    "title": "",
+    "sub_title": "",
+    "cta": {
+      "view_more": []
+    },
+    "items": [],
+    "pagination": {
+      "pagination_type": "",
+      "load_more_count": "",
+      "label": "",
+      "api": ""
+    },
+    "webview_type": "",
+    "allow_auth_sharing": false,
+    "allow_sharing": false,
+    "message_handlers": [],
+    "input_type": "",
+    "input_value": ""
+  }
+}
